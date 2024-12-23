@@ -1,0 +1,601 @@
+[30-Oct-2024 22:33:19 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:33:19 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:33:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:33:19 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:35:13 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:37:02 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:02 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:02 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:37:02 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:37:28 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:28 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:28 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:37:28 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:37:29 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:29 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:37:29 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:37:29 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 21:40:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:40:30 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:40:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:40:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:40:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 21:40:37 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:40:37 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:40:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:40:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:40:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 21:40:43 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:40:43 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 21:46:45 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:46:45 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:46:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:46:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:46:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 21:46:56 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:46:56 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:47:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:47:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:47:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 21:49:39 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 21:49:39 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:49:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:49:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:49:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:52:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:52:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:52:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:50 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:50 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:53:50 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:54:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:23 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:23 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:23 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:55:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:56:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:56:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:56:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:57:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:57:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:57:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:02:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:02:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:02:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:03:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:04:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:05:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:05:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:05:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:05:43 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:05:43 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:05:45 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:05:45 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:05:45 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:06:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:06:25 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:06:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:06:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:06:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:06:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:06:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:08:35 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:08:35 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:08:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:08:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:08:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:10:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 50
+[30-Oct-2024 23:10:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 50
+[30-Oct-2024 23:10:04 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 50
+[30-Oct-2024 23:10:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:10:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:10:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:11:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:11:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:11:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:13:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:13:34 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:13:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:13:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:13:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:13:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:13:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:13:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:14:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:14:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:14:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:16:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:16:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:16:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:17:25 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:17:25 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:17:25 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:18:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:18:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:18:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:39:16 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:39:16 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:39:17 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:39:17 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:39:19 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:39:19 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:39:19 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:41:43 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:41:43 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:41:43 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:43 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:43 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:41:55 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:41:55 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:41:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:13 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:13 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:13 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:42:18 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:42:18 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:42:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:42:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:42:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:42:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:42:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:42:33 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:42:33 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:43:04 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:43:04 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:43:08 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:08 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:08 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:43:10 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:43:10 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:43:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:43:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:43:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:43:51 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:43:51 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:43:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:43:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:43:59 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:43:59 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:44:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:44:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:44:02 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:44:02 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:44:02 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:44:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:44:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:44:30 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 22:44:33 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:44:33 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:45:10 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:45:10 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 22:45:46 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[30-Oct-2024 22:45:46 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[30-Oct-2024 23:49:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:49:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:49:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:52:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:53:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:53:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:53:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:54:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:54:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:54:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:12 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:55:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:56:37 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:57:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:41 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:58:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:59:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:59:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[30-Oct-2024 23:59:09 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:00:28 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:00:28 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:00:28 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:01:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:01:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:01:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:02:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:05:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:05:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:05:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:20:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:20:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:20:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:25:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:25:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:25:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:26:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:26:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:26:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 00:35:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:36 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:10:54 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:11:20 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:11:20 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:11:20 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:27 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:27 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:27 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:12:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:29 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:29 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:18:29 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:24:53 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:25:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:25:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:25:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:26:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:26:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:26:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:26:11 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:26:11 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:31:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:52 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:31:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:34:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:35:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:36:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:36:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:36:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:37:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:06 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:11 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:18 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:18 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:18 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:38:26 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:40 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:40 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:40 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:39:56 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:40:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:03 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:14 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:41:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:49 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:42:57 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:45:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:45:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:45:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:46:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:46:07 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:46:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:46:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:46:07 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:46:23 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:46:23 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:46:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:46:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:46:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:47:14 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:47:14 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:47:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:16 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:47:58 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:48:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:48:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:48:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:48:55 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:48:55 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:48:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:48:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:48:55 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 05:49:16 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 19
+[31-Oct-2024 05:49:16 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 06:50:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:00 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:31 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:47 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:51 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:50:59 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:15 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:33 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:34 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:35 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:51:46 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:52:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:52:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:52:38 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:24 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:32 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:53:44 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:01 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:54:39 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:55:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:55:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:55:17 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:57:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:57:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 06:57:22 Asia/Manila] PHP Notice:  Undefined index: ship in /home/sarm8823/public_html/acms/admin/transactions/index.php on line 49
+[31-Oct-2024 18:25:40 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:26:21 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:27:00 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:32:16 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:32:18 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:35:37 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 18:49:52 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 19:50:00 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sarm8823/public_html/acms/admin/index.php:7) in /home/sarm8823/public_html/acms/admin/transactions/excel_report.php on line 29
+[31-Oct-2024 19:50:00 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sarm8823/public_html/acms/admin/index.php:7) in /home/sarm8823/public_html/acms/admin/transactions/excel_report.php on line 30
+[31-Oct-2024 19:50:00 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sarm8823/public_html/acms/admin/index.php:7) in /home/sarm8823/public_html/acms/admin/transactions/excel_report.php on line 31
+[31-Oct-2024 19:15:56 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 19:21:17 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 19:37:13 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[31-Oct-2024 19:38:21 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 14:02:32 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 14:11:49 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 19:55:30 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 19:57:14 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 19:59:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[04-Nov-2024 19:59:39 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[07-Nov-2024 21:19:17 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[07-Nov-2024 21:20:57 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[07-Nov-2024 21:21:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[07-Nov-2024 22:09:26 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[09-Nov-2024 21:45:55 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[20-Nov-2024 21:45:04 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 13:12:34 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 13:13:07 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 13:13:15 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 13:13:15 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 15:17:35 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[21-Nov-2024 19:03:15 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[23-Dec-2024 22:01:28 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270
+[23-Dec-2024 22:02:19 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/sarm8823/public_html/acms/admin/transactions/manage_transaction.php on line 270

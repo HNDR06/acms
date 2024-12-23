@@ -1,0 +1,49 @@
+[06-Aug-2024 05:04:26 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:04:26 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:04:26 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:27 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:27 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:27 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:29 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:29 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:29 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:30 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:30 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:30 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:31 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:05:37 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:05:37 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:05:37 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[06-Aug-2024 05:07:01 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[06-Aug-2024 05:07:01 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[06-Aug-2024 05:07:01 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 20:40:41 Asia/Manila] PHP Warning:  file_get_contents(welcome.html): failed to open stream: No such file or directory in /home/sarm8823/public_html/acms/home.php on line 47
+[30-Oct-2024 20:58:31 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:31 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 20:58:31 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 20:58:33 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:33 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:33 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 20:58:33 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 20:58:43 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:43 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 20:58:43 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 20:58:43 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 21:03:35 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 21:03:35 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 21:03:35 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 21:03:35 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:38:05 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:38:05 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:38:05 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:38:05 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
+[30-Oct-2024 22:38:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:38:13 Asia/Manila] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/sarm8823/public_html/acms/classes/DBConnection.php on line 18
+[30-Oct-2024 22:38:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 16
+[30-Oct-2024 22:38:13 Asia/Manila] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/sarm8823/public_html/acms/classes/SystemSettings.php on line 17
